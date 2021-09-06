@@ -127,18 +127,3 @@ ticket at [bugs.php.net](https://bugs.php.net) and reference the bug id using
 
 See [Git workflow](https://wiki.php.net/vcs/gitworkflow) for more details on the
 pull request workflow.
-
-### Guidelines for contributors
-
-See further documents in the repository for more information on how to
-contribute:
-
-- [Contributing to PHP](/CONTRIBUTING.md)
-- [PHP coding standards](/CODING_STANDARDS.md)
-- [Mailinglist rules](/docs/mailinglist-rules.md)
-- [PHP release process](/docs/release-process.md)
-
-## Credits
-
-For the list of people who've put work into PHP, please see the
-[PHP credits page](https://php.net/credits.php).
